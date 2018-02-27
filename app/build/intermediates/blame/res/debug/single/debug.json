@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hello_world.xml.flat",
+        "source": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\layout\\activity_hello_world.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hello_world.xml.flat",
+        "source": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\layout\\activity_hello_world.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_hello_world.xml.flat",
+        "source": "C:\\Users\\Harish\\Downloads\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\menu\\activity_hello_world.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_hello_world.xml.flat",
+        "source": "C:\\Users\\home\\AndroidStudioProjects\\android_hello_world-master\\android_hello_world-master\\app\\src\\main\\res\\menu\\activity_hello_world.xml"
+    }
+]
